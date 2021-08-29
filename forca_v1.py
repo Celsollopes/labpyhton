@@ -3,6 +3,7 @@
 
 # Import
 import random
+from code import forcalist as brd
 
 # Board (tabuleiro)
 board = ['''
